@@ -1,0 +1,44 @@
+[
+  {
+    "jid": "6285748600473@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#help",
+        "count": 3
+      },
+      {
+        "nama": "#dashboard",
+        "count": 1
+      },
+      {
+        "nama": "#donasi",
+        "count": 2
+      },
+      {
+        "nama": "#owner",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6287899194010@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#help",
+        "count": 1
+      },
+      {
+        "nama": "#sound1",
+        "count": 1
+      },
+      {
+        "nama": "#sound55",
+        "count": 1
+      },
+      {
+        "nama": "#sound25",
+        "count": 1
+      }
+    ]
+  }
+]
